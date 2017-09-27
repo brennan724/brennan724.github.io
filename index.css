@@ -1,0 +1,21 @@
+#profile_picture {
+    float: left;
+    width: 225px;
+}
+
+#intro {
+    width: 90%;
+}
+
+.wrapper {
+    padding-top: 15%;
+    overflow: visible;
+    margin: auto;
+    width: 90%;
+    height: 200%;
+    
+}
+
+body {
+    background-color: beige;
+}
